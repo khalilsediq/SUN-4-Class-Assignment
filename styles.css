@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#main-title{
+    background-color:#0180ff;
+    color: #000ff6;
+    margin: 20px 10px;
+    padding: 15px;
+    border-radius: 10px;      
+}
+.intro-paragraph {
+    color: #c898f4;
+    margin: 20px 10px;
+    font-size: 20px;
+}
+#color-box{
+    background-color:#fdff00;
+    color: #e6a601;
+    padding: 15px;
+    margin: 20px 10px;
+    border-radius: 10px;
+}
+.unstyled-p{
+    background-color: #c0d4c0;
+    color: #283c35;
+    margin: 20px 10px;
+    padding: 8px;
+    border-radius: 5px;
+}
